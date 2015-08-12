@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://stephanniepb.github.io/honeyblog/sitemap.xml 
